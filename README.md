@@ -9,3 +9,7 @@ We built a machine learning model that answers the question, -what is the custom
 We explored the dataset by using `Seaborn`, and transformed, derived new features necessary.
 
 In addition, the shape of dataset is `imbalanced`. It means that the target variable's distribution is skewed. To overcome that challenge, there are already defined a few different techniques (e.g. `over/under resampling techniques`) and intuitive approaches. We try to solve that problem using resampling techniques, as well.
+
+
+
+`kjlkjlkj`
